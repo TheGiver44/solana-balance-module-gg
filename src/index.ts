@@ -71,7 +71,7 @@ const DEFAULT_CONFIG: BalanceConfig = {
 
 const DEFAULT_RPC_CONFIG: RPCConfig = {
   endpoints: [
-    'https://mainnet.helius-rpc.com/?api-key=9e8c2b63-7af5-4ae8-b4b2-dd793a8713fb',
+    'https://mainnet.helius-rpc.com/?api-key=YOUR API KEY HERE',
     'https://api.mainnet-beta.solana.com',
     'https://solana-api.projectserum.com',
     'https://rpc.ankr.com/solana',
